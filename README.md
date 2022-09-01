@@ -4,4 +4,4 @@ NPM : 2106751902
 
 Kelas : B
 
-Hobi : Menyanyi
+Hobi : Masak
